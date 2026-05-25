@@ -1,9 +1,8 @@
 <div align="center">
 
 <!--
-  Header HTML — save as header.html and render via GitHub README using
-  a hosted image, or paste the block directly into a GitHub Pages preview.
-  The animated name + drifting cloud background renders in any browser.
+  Animated header — paste header.html into a GitHub Pages / portfolio site.
+  GitHub READMEs strip JS, so the static version below is used instead.
 -->
 
 ### Kotipalli Lahari Sri
@@ -16,24 +15,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://laharisri.vercel.app/)
 
 </div>
-
----
-
-## 🧭 Who I Am
-
-```yaml
-name: Kotipalli Lahari Sri
-role: Cloud Architect · DevOps Engineer · Backend Developer
-location: Kakinada, Andhra Pradesh, India
-currently_working_on:
-  - Docker multi-stage builds + security scanning (Trivy)
-  - Real-time data ingestion with Apache Kafka + Great Expectations
-  - Personalized AI assistant on Telegram
-obsessed_with:
-  - Event-driven architectures on AWS
-  - Infrastructure as Code with Terraform
-  - Making containers tiny and secure
-```
 
 ---
 
@@ -111,21 +92,6 @@ obsessed_with:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Projects I'm Proud Of
-
-| Project | Stack | Highlight |
-|---|---|---|
-| [🔄 Event-Driven Image Processing](https://github.com/Laharisrikotipalli) | AWS SQS · S3 · ECS · Python | Async architecture with DLQ & retries |
-| [🏗️ Hybrid Cloud Architecture](https://github.com/Laharisrikotipalli/hybrid-cloud-architecture) | Terraform · GCP · LocalStack | Multi-cloud IaC with remote state |
-| [🐳 Docker Image Optimizer](https://github.com/Laharisrikotipalli/docker-analyzer) | Docker SDK · Flask · Trivy | Layer analysis + CVE scanning dashboard |
-| [⚙️ ECS CI/CD Pipeline](https://github.com/Laharisrikotipalli/my-ecs-terraform-cicd) | Terraform · GitLab CI · ECS · ECR | Full deploy pipeline from code to container |
-| [🤖 Offline Support Chatbot](https://github.com/Laharisrikotipalli/offline-chatbot) | Ollama · Llama 3.2 · Python | Runs 100% locally, no API calls |
-| [📧 AI Email Responder](https://github.com/Laharisrikotipalli/ai-email-responder) | n8n · Ollama · SMTP | Local LLM auto-replies, zero cloud dependency |
-| [📊 Kafka Data Pipeline](https://github.com/Laharisrikotipalli) | Kafka · Great Expectations · Python | Real-time ingestion + quality monitoring |
-| [🔐 Rate Limiting Microservice](https://github.com/Laharisrikotipalli) | Docker · GitHub Actions · Flask | Scalable API protection with full CI/CD |
 
 ---
 
