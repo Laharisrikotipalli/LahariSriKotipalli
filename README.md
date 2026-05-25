@@ -1,13 +1,10 @@
 <div align="center">
 
-```
-██╗      █████╗ ██╗  ██╗ █████╗ ██████╗ ██╗
-██║     ██╔══██╗██║  ██║██╔══██╗██╔══██╗██║
-██║     ███████║███████║███████║██████╔╝██║
-██║     ██╔══██║██╔══██║██╔══██║██╔══██╗██║
-███████╗██║  ██║██║  ██║██║  ██║██║  ██║██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
-```
+<!--
+  Header HTML — save as header.html and render via GitHub README using
+  a hosted image, or paste the block directly into a GitHub Pages preview.
+  The animated name + drifting cloud background renders in any browser.
+-->
 
 ### Kotipalli Lahari Sri
 **Cloud & DevOps Engineer · Backend Developer · AI Builder**
@@ -16,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahari-sri-kotipalli)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laharisrikotipalli)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Laharisrikotipalli/myportfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://laharisri.vercel.app/)
 
 </div>
 
@@ -26,9 +23,8 @@
 
 ```yaml
 name: Kotipalli Lahari Sri
-role: Cloud Architect (Primary) · DevOps Engineer · Backend Developer
+role: Cloud Architect · DevOps Engineer · Backend Developer
 location: Kakinada, Andhra Pradesh, India
-program: Global Placement Program — 6-week streak · 82% Cloud Architect readiness
 currently_working_on:
   - Docker multi-stage builds + security scanning (Trivy)
   - Real-time data ingestion with Apache Kafka + Great Expectations
@@ -122,49 +118,21 @@ obsessed_with:
 
 | Project | Stack | Highlight |
 |---|---|---|
-| [🔄 Event-Driven Image Processing](https://github.com/Laharisrikotipalli) | AWS SQS · S3 · ECS · Python | Async architecture with DLQ, retries, 98/100 |
-| [🏗️ Hybrid Cloud Architecture](https://github.com/Laharisrikotipalli/hybrid-cloud-architecture) | Terraform · GCP · LocalStack | Multi-cloud IaC, remote state, 98/100 |
-| [🐳 Docker Image Optimizer](https://github.com/Laharisrikotipalli/docker-analyzer) | Docker SDK · Flask · Trivy | Layer analysis + CVE scanning dashboard, 98/100 |
+| [🔄 Event-Driven Image Processing](https://github.com/Laharisrikotipalli) | AWS SQS · S3 · ECS · Python | Async architecture with DLQ & retries |
+| [🏗️ Hybrid Cloud Architecture](https://github.com/Laharisrikotipalli/hybrid-cloud-architecture) | Terraform · GCP · LocalStack | Multi-cloud IaC with remote state |
+| [🐳 Docker Image Optimizer](https://github.com/Laharisrikotipalli/docker-analyzer) | Docker SDK · Flask · Trivy | Layer analysis + CVE scanning dashboard |
 | [⚙️ ECS CI/CD Pipeline](https://github.com/Laharisrikotipalli/my-ecs-terraform-cicd) | Terraform · GitLab CI · ECS · ECR | Full deploy pipeline from code to container |
-| [🤖 Offline Support Chatbot](https://github.com/Laharisrikotipalli/offline-chatbot) | Ollama · Llama 3.2 · Python | Runs 100% locally, no API calls, 100/100 |
+| [🤖 Offline Support Chatbot](https://github.com/Laharisrikotipalli/offline-chatbot) | Ollama · Llama 3.2 · Python | Runs 100% locally, no API calls |
 | [📧 AI Email Responder](https://github.com/Laharisrikotipalli/ai-email-responder) | n8n · Ollama · SMTP | Local LLM auto-replies, zero cloud dependency |
 | [📊 Kafka Data Pipeline](https://github.com/Laharisrikotipalli) | Kafka · Great Expectations · Python | Real-time ingestion + quality monitoring |
 | [🔐 Rate Limiting Microservice](https://github.com/Laharisrikotipalli) | Docker · GitHub Actions · Flask | Scalable API protection with full CI/CD |
 
 ---
 
-## 📈 GPP Journey — 0% → 82% Cloud Architect
-
-```
-Oct 2025  ████░░░░░░░░░░░░░░░░  18%  baseline
-Dec 2025  ████████░░░░░░░░░░░░  40%  first infra projects shipped
-Feb 2026  ████████████░░░░░░░░  60%  Terraform + ECS + Kafka
-Apr 2026  ████████████████░░░░  75%  SQS image processing (98/100)
-May 2026  █████████████████░░░  82%  hybrid cloud + docker optimizer
-```
-
-**Stats:** 24 approved tasks · 9 tasks scored 90%+ · 6-week streak · 68 tools · 79 skills
-
----
-
-## 🎯 Top Skills by Score
-
-```
-Cloud Computing    ████████████████████  87%
-DevOps             ███████████████████░  86%
-System Design      ██████████████████░░  85%
-Backend Dev        ████████████████░░░░  77%
-Monitoring         ████████████████░░░░  79%
-Blockchain         ███████████████░░░░░  75%
-Machine Learning   ████████████████████  100% (1 task)
-```
-
----
-
 ## 🌱 Currently Learning
 
 - **Kubernetes** — HPA, service mesh, RBAC, cluster autoscaler
-- **Bash scripting** — automation, cron, health check scripts  
+- **Bash scripting** — automation, cron, health check scripts
 - **Observability** — Prometheus + Grafana + AlertManager stack
 - **Cybersecurity** — IAM hardening, VPC security, secrets management
 
