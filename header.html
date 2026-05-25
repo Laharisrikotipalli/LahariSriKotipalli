@@ -1,0 +1,86 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=DM+Sans:wght@300;400;500&display=swap');
+*{box-sizing:border-box;margin:0;padding:0}
+.hero{background:#0d1117;border-radius:12px;overflow:hidden;padding:0;position:relative;min-height:260px;display:flex;flex-direction:column;align-items:center;justify-content:center}
+.sky{position:absolute;inset:0;background:#0d1117}
+.cloud{position:absolute;opacity:0.07}
+.cloud ellipse,.cloud circle{fill:#58a6ff}
+@keyframes drift1{0%{transform:translateX(-120px)}100%{transform:translateX(820px)}}
+@keyframes drift2{0%{transform:translateX(-200px)}100%{transform:translateX(820px)}}
+@keyframes drift3{0%{transform:translateX(820px)}100%{transform:translateX(-200px)}}
+@keyframes drift4{0%{transform:translateX(820px)}100%{transform:translateX(-150px)}}
+.c1{animation:drift1 28s linear infinite;top:28px}
+.c2{animation:drift2 38s linear infinite 6s;top:60px}
+.c3{animation:drift3 32s linear infinite 3s;top:18px}
+.c4{animation:drift4 44s linear infinite 10s;top:50px}
+.c5{animation:drift1 50s linear infinite 15s;top:75px}
+.hero-content{position:relative;z-index:2;text-align:center;padding:2.5rem 2rem}
+.name-line{display:flex;align-items:center;justify-content:center;gap:0;margin-bottom:6px}
+.name-char{font-family:'Space Mono',monospace;font-size:clamp(22px,4vw,34px);font-weight:700;color:#58a6ff;opacity:0;animation:fadeUp 0.4s forwards}
+@keyframes fadeUp{to{opacity:1;transform:translateY(0)}from{opacity:0;transform:translateY(12px)}}
+.subtitle{font-family:'DM Sans',sans-serif;font-size:13px;color:#8b949e;letter-spacing:0.12em;text-transform:uppercase;margin-bottom:1.4rem;opacity:0;animation:fadeUp 0.5s forwards 1.2s}
+.tagline{font-family:'DM Sans',sans-serif;font-size:14px;color:#c9d1d9;margin-bottom:1.6rem;opacity:0;animation:fadeUp 0.5s forwards 1.5s;line-height:1.6}
+.badges{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;opacity:0;animation:fadeUp 0.5s forwards 1.8s}
+.badge{font-family:'Space Mono',monospace;font-size:11px;padding:4px 10px;border-radius:4px;border:1px solid;letter-spacing:0.04em}
+.b-blue{color:#58a6ff;border-color:#1f4b7a;background:#0d2238}
+.b-teal{color:#3fb950;border-color:#1a4c27;background:#0d2118}
+.b-amber{color:#d29922;border-color:#4a3000;background:#1c1500}
+.b-purple{color:#a371f7;border-color:#3d2476;background:#160d30}
+</style>
+<div class="hero">
+  <div class="sky"></div>
+  <svg class="cloud c1" width="180" height="60" viewBox="0 0 180 60">
+    <ellipse cx="90" cy="45" rx="80" ry="20"/>
+    <ellipse cx="60" cy="36" rx="40" ry="22"/>
+    <ellipse cx="110" cy="32" rx="48" ry="26"/>
+    <ellipse cx="140" cy="40" rx="32" ry="18"/>
+  </svg>
+  <svg class="cloud c2" width="220" height="70" viewBox="0 0 220 70">
+    <ellipse cx="110" cy="55" rx="100" ry="22"/>
+    <ellipse cx="70" cy="42" rx="50" ry="28"/>
+    <ellipse cx="140" cy="36" rx="60" ry="32"/>
+    <ellipse cx="180" cy="48" rx="38" ry="20"/>
+  </svg>
+  <svg class="cloud c3" width="160" height="55" viewBox="0 0 160 55">
+    <ellipse cx="80" cy="42" rx="70" ry="18"/>
+    <ellipse cx="50" cy="32" rx="38" ry="22"/>
+    <ellipse cx="105" cy="28" rx="44" ry="24"/>
+  </svg>
+  <svg class="cloud c4" width="200" height="65" viewBox="0 0 200 65">
+    <ellipse cx="100" cy="50" rx="90" ry="20"/>
+    <ellipse cx="65" cy="38" rx="45" ry="26"/>
+    <ellipse cx="130" cy="33" rx="55" ry="28"/>
+    <ellipse cx="165" cy="44" rx="34" ry="18"/>
+  </svg>
+  <svg class="cloud c5" width="140" height="50" viewBox="0 0 140 50">
+    <ellipse cx="70" cy="38" rx="60" ry="16"/>
+    <ellipse cx="44" cy="28" rx="32" ry="20"/>
+    <ellipse cx="90" cy="24" rx="40" ry="22"/>
+  </svg>
+  <div class="hero-content">
+    <div class="name-line" id="nameRow"></div>
+    <div class="subtitle">Cloud &amp; DevOps · Backend · AI</div>
+    <div class="tagline">Building infrastructure that scales<br>Shipping code that lasts</div>
+    <div class="badges">
+      <span class="badge b-blue">AWS</span>
+      <span class="badge b-blue">GCP</span>
+      <span class="badge b-teal">Terraform</span>
+      <span class="badge b-teal">Docker</span>
+      <span class="badge b-amber">Kafka</span>
+      <span class="badge b-amber">Python</span>
+      <span class="badge b-purple">AI / LLM</span>
+      <span class="badge b-purple">Blockchain</span>
+    </div>
+  </div>
+</div>
+<script>
+const name = "Kotipalli Lahari Sri";
+const row = document.getElementById('nameRow');
+name.split('').forEach((ch, i) => {
+  const s = document.createElement('span');
+  s.className = 'name-char';
+  s.textContent = ch === ' ' ? '\u00A0' : ch;
+  s.style.animationDelay = (0.04 * i + 0.1) + 's';
+  row.appendChild(s);
+});
+</script>
