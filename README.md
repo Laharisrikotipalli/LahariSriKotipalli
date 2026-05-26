@@ -1,13 +1,10 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0d2238,100:0d1117&height=220&section=header&text=Kotipalli%20Lahari%20Sri&fontSize=36&fontColor=58a6ff&fontAlignY=55&desc=Cloud%20%26%20DevOps%20%E2%80%A2%20Backend%20%E2%80%A2%20AI%20Builder&descSize=15&descAlignY=75&descColor=8b949e&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:e8f4fd,50:dbeeff,100:e8f4fd&height=220&section=header&text=Kotipalli%20Lahari%20Sri&fontSize=36&fontColor=185FA5&fontAlignY=55&desc=Cloud%20%26%20DevOps%20%E2%80%A2%20Backend%20%E2%80%A2%20AI%20Builder&descSize=15&descAlignY=75&descColor=378ADD&animation=fadeIn"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=clouds&color=0:0d1117,30:0a1628,60:0d2238,100:0d1117&height=200&section=header&text=Kotipalli%20Lahari%20Sri&fontSize=38&fontColor=58a6ff&fontAlignY=60&desc=Cloud%20%26%20DevOps%20%E2%80%A2%20Backend%20%E2%80%A2%20AI%20Builder&descSize=15&descAlignY=80&descColor=8b949e&animation=fadeIn&reversal=false" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+infrastructure+that+scales+%E2%98%81%EF%B8%8F;Shipping+code+that+lasts+%F0%9F%9A%80;Event-driven+%7C+Cloud-native+%7C+IaC;AWS+%C2%B7+GCP+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+Kafka)](https://github.com/Laharisrikotipalli)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+infrastructure+that+scales+%E2%98%81%EF%B8%8F;Shipping+code+that+lasts+%F0%9F%9A%80;Event-driven+%7C+Cloud-native+%7C+IaC;AWS+%C2%B7+GCP+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+Kafka)](https://github.com/Laharisrikotipalli)
 
 <br/>
 
@@ -52,7 +49,7 @@ currently  :
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
-**AWS services**
+**AWS Services**
 
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
@@ -105,7 +102,6 @@ currently  :
 
 **Blockchain**
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white)
@@ -119,36 +115,6 @@ currently  :
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Projects
-
-| Project | Stack | What it does |
-|---|---|---|
-| 🔄 Event-Driven Image Processing | AWS SQS · S3 · ECS · Python | Async image pipeline with DLQ, retries, visibility timeout |
-| 🏗️ Hybrid Cloud Architecture | Terraform · GCP · LocalStack | Multi-cloud IaC with remote state and drift detection |
-| 🐳 Docker Image Optimizer | Docker SDK · Flask · Trivy | Layer analysis dashboard + CVE security scanning |
-| ⚙️ ECS CI/CD Pipeline | Terraform · GitLab CI · ECS · ECR | Full deploy pipeline from code push to live container |
-| 🤖 Offline Support Chatbot | Ollama · Llama 3.2 · Python | Runs 100% locally — zero cloud, zero API cost |
-| 📧 AI Email Responder | n8n · Ollama · SMTP | Local LLM auto-replies, no external API calls |
-| 📊 Kafka Data Pipeline | Kafka · Great Expectations · Python | Real-time ingestion with data quality monitoring |
-| 🔐 Rate Limiting Microservice | Docker · GitHub Actions · Flask | Scalable API protection with automated CI/CD |
-| ⚡ Serverless Pipeline | Lambda · API Gateway · Terraform | Multi-env serverless deploy (dev/staging/prod) |
-| 🏦 Redis Caching Service | Redis · Python | Multi-layer caching with TTL, eviction strategies |
-| 🔑 PKI 2FA Microservice | Docker · OpenSSL · Python | Certificate-based two-factor auth service |
-| 🌐 DEX with AMM | Solidity · Ethers.js · Hardhat | Decentralized exchange with automated market maker |
-
----
-
-## 🌱 Currently Learning
-
-```
-Kubernetes    ████████░░░░   HPA · service mesh · RBAC · cluster autoscaler
-Bash          ██████░░░░░░   automation scripts · cron · health checks
-Prometheus    ██████░░░░░░   Grafana · AlertManager · observability stack
-Cybersecurity ████░░░░░░░░   IAM hardening · VPC security · secrets management
-```
 
 ---
 
@@ -179,16 +145,19 @@ Cybersecurity ████░░░░░░░░   IAM hardening · VPC securi
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d2238&height=100&section=footer&fontColor=58a6ff"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4fd,100:dbeeff&height=100&section=footer"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=clouds&color=0:0d1117,50:0a1628,100:0d1117&height=120&section=footer&fontColor=58a6ff&reversal=true" width="100%"/>
 
 *"Infrastructure is not the background — it is the product."*
 
+<br/>
+
 **Open to remote roles in Cloud · DevOps · Backend Engineering**
 
+<br/>
+
 [![Let's connect](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lahari-sri-kotipalli)
+
+<br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Laharisrikotipalli&color=58a6ff&style=flat-square&label=profile+views)
 
