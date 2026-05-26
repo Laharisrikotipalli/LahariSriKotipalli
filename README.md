@@ -1,38 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=clouds&color=0:0d1117,30:0a1628,60:0d2238,100:0d1117&height=200&section=header&text=Kotipalli%20Lahari%20Sri&fontSize=38&fontColor=58a6ff&fontAlignY=60&desc=Cloud%20%26%20DevOps%20%E2%80%A2%20Backend%20%E2%80%A2%20AI%20Builder&descSize=15&descAlignY=80&descColor=8b949e&animation=fadeIn&reversal=false" width="100%"/>
+![header](https://github-widgetbox.vercel.app/api/profile?username=Laharisrikotipalli&data=followers,repositories,stars,commits&theme=nautilus)
 
-<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+infrastructure+that+scales+%E2%98%81%EF%B8%8F;Shipping+code+that+lasts+%F0%9F%9A%80;Event-driven+%7C+Cloud-native+%7C+IaC;AWS+%C2%B7+GCP+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+Kafka)](https://github.com/Laharisrikotipalli)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Kotipalli+Lahari+Sri+%E2%98%81%EF%B8%8F;Cloud+%26+DevOps+%C2%B7+Backend+%C2%B7+AI+Builder;Building+infrastructure+that+scales;Event-driven+%7C+Cloud-native+%7C+IaC;AWS+%C2%B7+GCP+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+Kafka)](https://github.com/Laharisrikotipalli)
 
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lahari-sri-kotipalli)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laharisrikotipalli)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Laharisrikotipalli/myportfolio)
 
 </div>
-
----
-
-## 🧭 About Me
-
-```yaml
-name       : Kotipalli Lahari Sri
-location   : Kakinada, Andhra Pradesh, India
-role       : Cloud Architect · DevOps Engineer · Backend Developer
-domains    : Cloud Computing · DevOps · Backend · AI/ML · Blockchain
-focus_on   :
-  - Event-driven architecture on AWS
-  - Infrastructure as Code with Terraform
-  - Building secure, optimized containers
-  - Local-first AI with Ollama + LLMs
-currently  :
-  - Docker multi-stage builds + Trivy security scanning
-  - Real-time data pipelines with Apache Kafka
-  - AI assistant on Telegram
-```
 
 ---
 
@@ -125,7 +103,6 @@ currently  :
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Laharisrikotipalli&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laharisrikotipalli&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
-<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Laharisrikotipalli&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff)
 
@@ -145,19 +122,13 @@ currently  :
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=clouds&color=0:0d1117,50:0a1628,100:0d1117&height=120&section=footer&fontColor=58a6ff&reversal=true" width="100%"/>
 
-*"Infrastructure is not the background — it is the product."*
 
-<br/>
 
-**Open to remote roles in Cloud · DevOps · Backend Engineering**
 
-<br/>
 
 [![Let's connect](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lahari-sri-kotipalli)
 
-<br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Laharisrikotipalli&color=58a6ff&style=flat-square&label=profile+views)
 
