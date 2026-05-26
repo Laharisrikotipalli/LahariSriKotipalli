@@ -1,11 +1,7 @@
 <div align="center">
 
 ![header](https://github-widgetbox.vercel.app/api/profile?username=Laharisrikotipalli&data=followers,repositories,stars,commits&theme=nautilus)
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Kotipalli+Lahari+Sri+%E2%98%81%EF%B8%8F;Cloud+%26+DevOps+%C2%B7+Backend+%C2%B7+AI+Builder;Building+infrastructure+that+scales;Event-driven+%7C+Cloud-native+%7C+IaC;AWS+%C2%B7+GCP+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+Kafka)](https://github.com/Laharisrikotipalli)
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lahari-sri-kotipalli)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laharisrikotipalli)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Laharisrikotipalli/myportfolio)
@@ -50,7 +46,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
@@ -78,12 +73,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-**Blockchain**
-
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white)
-
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -102,34 +91,11 @@
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Laharisrikotipalli&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laharisrikotipalli&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Laharisrikotipalli&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff)
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
 <div align="center">
-
-![snake gif](https://github.com/Laharisrikotipalli/Laharisrikotipalli/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-
-
-
-
-
 [![Let's connect](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lahari-sri-kotipalli)
-
-
-![Profile views](https://komarev.com/ghpvc/?username=Laharisrikotipalli&color=58a6ff&style=flat-square&label=profile+views)
 
 </div>
