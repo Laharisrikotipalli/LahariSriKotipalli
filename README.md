@@ -1,7 +1,9 @@
 <div align="center">
 
-![header](https://github-widgetbox.vercel.app/api/profile?username=Laharisrikotipalli&data=followers,repositories,stars,commits&theme=nautilus)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Kotipalli+Lahari+Sri+%E2%98%81%EF%B8%8F;Cloud+%26+DevOps+%C2%B7+Backend+%C2%B7+AI+Builder;Building+infrastructure+that+scales;Event-driven+%7C+Cloud-native+%7C+IaC;AWS+%C2%B7+GCP+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+Kafka)](https://github.com/Laharisrikotipalli)
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lahari-sri-kotipalli)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laharisrikotipalli)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Laharisrikotipalli/myportfolio)
@@ -89,13 +91,19 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Laharisrikotipalli&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laharisrikotipalli&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-![GitHub Streak](https://streak-stats.demolab.com/?user=Laharisrikotipalli&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff)
+<img src="https://github-readme-stats.vercel.app/api?username=Laharisrikotipalli&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laharisrikotipalli&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Laharisrikotipalli&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff"/>
 
 </div>
 
+---
+
 <div align="center">
+
 [![Let's connect](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lahari-sri-kotipalli)
 
 </div>
